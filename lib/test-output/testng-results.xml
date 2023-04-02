@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-02T18:15:31 EEST" name="Default suite" finished-at="2023-04-02T18:15:38 EEST" duration-ms="7214">
+    <groups>
+    </groups>
+    <test started-at="2023-04-02T18:15:31 EEST" name="Default test" finished-at="2023-04-02T18:15:38 EEST" duration-ms="7214">
+      <class name="qa.ui.tests.GoogleTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:qa.ui.tests.GoogleTests@5ab956d7]" started-at="2023-04-02T18:15:31 EEST" name="setUp" finished-at="2023-04-02T18:15:35 EEST" duration-ms="4557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:qa.ui.tests.GoogleTests@5ab956d7]" started-at="2023-04-02T18:15:35 EEST" name="setUp" finished-at="2023-04-02T18:15:36 EEST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="findSpeficPage()[pri:0, instance:qa.ui.tests.GoogleTests@5ab956d7]" started-at="2023-04-02T18:15:36 EEST" name="findSpeficPage" finished-at="2023-04-02T18:15:38 EEST" duration-ms="2138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findSpeficPage -->
+      </class> <!-- qa.ui.tests.GoogleTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
